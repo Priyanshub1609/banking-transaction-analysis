@@ -1,0 +1,11 @@
+customer_id,customer_name,city,account_type,join_date
+1,Aarav Sharma,Delhi,Savings,2025-01-15
+2,Priya Verma,Mumbai,Current,2025-02-10
+3,Rahul Singh,Delhi,Savings,2025-03-05
+4,Neha Gupta,Jaipur,Savings,2025-03-20
+5,Amit Kumar,Mumbai,Current,2025-04-12
+6,Sneha Patel,Ahmedabad,Savings,2025-05-01
+7,Rohan Mehta,Delhi,Current,2025-05-18
+8,Ananya Das,Kolkata,Savings,2025-06-22
+9,Vikram Yadav,Jaipur,Current,2025-07-09
+10,Isha Roy,Kolkata,Savings,2025-08-14
