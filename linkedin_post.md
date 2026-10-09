@@ -22,6 +22,6 @@ This project helped me practise translating business questions into SQL queries 
 
 I’m continuing to build hands-on projects to strengthen my Data Analyst skills.
 
-GitHub: [Add your repository link here]
+🔗 GitHub Repository: https://github.com/Priyanshub1609/banking-transaction-analysis
 
 #SQL #DataAnalytics #DataAnalyst #SQLServer #PortfolioProject #LearningByDoing
